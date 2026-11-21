@@ -372,7 +372,7 @@ body {
 }
 .communicate p{
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     margin-bottom: 50px;
 }
 .phone{
@@ -408,7 +408,7 @@ body {
     column-gap: 30px; 
 }
 .contact-email p{
-    font-size: 30px;
+    font-size: 25px;
 }
 .social-media{
     display: flex;
