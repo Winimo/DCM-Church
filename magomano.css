@@ -575,6 +575,12 @@ body {
     display: block;
     margin: 0 auto;
     font-size: 25px;
+    cursor: pointer;
+    color: #000000;
+}
+.prayer-button:hover{
+    background-color: fuchsia;
+    color: #ffffff;
 }
 .pastoral{
     color: white;
