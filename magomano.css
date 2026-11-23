@@ -490,6 +490,12 @@ body {
     display: block;
     margin: 0 auto;
     font-size: 25px;
+    cursor: pointer;
+    color:#000000;
+}
+.submit-btn:hover{
+    background-color: fuchsia;
+    color: #ffffff;
 }
 .image-phone{
     display: block;
