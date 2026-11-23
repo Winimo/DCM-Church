@@ -521,7 +521,7 @@ body {
 }
 .prayer.request-form{
     text-align: center;
-    padding: 20px 10px 30px;
+    padding: 10px 10px 30px 10px;
 }
 .prayer1{
     color: black;
@@ -533,16 +533,20 @@ body {
     color: black;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 0;
     border-radius: 50px;
     width: min(100%, 480px);
     margin: 0 auto;
     padding: 20px;
     box-sizing: border-box;
 }
+.prayer-fieldset br{
+    display: none;
+}
 .prayer-name{
     font-size: 30px;
-    margin-bottom: 0px;
+    margin: 0 0 4px;
+    line-height: 1.2;
 }
 .prayer-name1,
 .prayer-message1{
@@ -551,12 +555,15 @@ body {
     box-sizing: border-box;
     padding: 10px;
     font-size: 16px;
+    margin: 0 0 10px;
 }
 .prayer-name1{
     height: 44px;
 }
 .prayer-message{
     font-size: 30px;
+    margin: 0 0 4px;
+    line-height: 1.2;
 }
 .prayer-message1{
     min-height: 140px;
