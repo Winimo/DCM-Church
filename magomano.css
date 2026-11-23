@@ -467,7 +467,7 @@ body {
     font-size: 25px;
 }
 .email-name{
-    width: 370px;
+    width: 500px;
     height: 40px;
 }
 .subject1{
@@ -593,7 +593,7 @@ body {
 }
 .baby p{
     font-size: 25px;
-    margin-bottom: 0;
+    gap: 0;
 }
 .prem{
     color: white;
