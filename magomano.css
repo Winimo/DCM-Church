@@ -12,7 +12,7 @@ body {
   box-sizing: inherit;
 }
 .header{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/istockphoto-879917312-612x612-copy.webp');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/Firefly.webp');
     background-position: center;
     background-size: cover;
 }
